@@ -1,0 +1,11 @@
+Mot	d1	d2	d3	d4	d5
+a	1	2	0	1	0
+bank	1	1	1	1	1
+guard	0	1	0	0	1
+is	0	0	1	1	0
+lucky	0	0	0	1	0
+money	1	0	1	0	0
+protect	1	1	0	0	0
+shot	0	0	1	1	0
+will	1	1	0	0	0
+your	1	0	1	0	0

@@ -1,0 +1,17 @@
+Poids	Argent		Iode
+23	A	I
+26	A	I
+0	A	II
+41	A	II
+19	A	II
+42	B	I
+42	B	I
+24	B	II
+14	B	II
+30	C	I
+21	C	I
+38	C	I
+50	D	II
+51	D	I
+62	D	II
+56	E	I
